@@ -25,7 +25,7 @@ print(["Juan", "Carlos"])
 # Dictionaries
 print(type({"name": "juan",
  "last-name": "quiroz",
- "alias": "jq"}));
+ "alias": "jq"}))
 
  #None
  
