@@ -10,8 +10,8 @@ numbers_list = list((1,2,3,4))
 #print('green' in colors)
 
 #colors.append('violet')
-#colors.extend(['orange', 'pink'])
-colors.extend('orange', 'pink')
+colors.extend(['orange', 'pink'])
+#colors.extend('orange', 'pink')
 
 
 print(colors)
