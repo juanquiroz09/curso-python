@@ -10,8 +10,13 @@ numbers_list = list((1,2,3,4))
 #print('green' in colors)
 
 #colors.append('violet')
-colors.extend(['orange', 'pink'])
+#colors.extend(['orange', 'pink'])
 #colors.extend('orange', 'pink')
+#colors.insert(1, 'violet')
+#colors.insert(len(colors), 'violet')
+#colors.pop()
+#colors.remove('green')
+#colors.clear()
 
-
-print(colors)
+#colors.sort()
+print(colors.count('red'))
